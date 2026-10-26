@@ -1,7 +1,6 @@
 # Hi, I'm Alice Rodrigues
 
-**Aspiring Data Analyst** with a Master's degree in Biodiversity, Ecology and Evolution (Aix-Marseille University).
-I work with large movement-tracking datasets, statistical modelling and data visualisation.
+**Aspiring Data Analyst** with a Master's degree in data sciences and statistical analysis from Aix-Marseille University. I work with large GPS tracking datasets, statistical modelling and data visualisation.
 
 ##  Skills
 
