@@ -13,6 +13,7 @@ Python · R · SQL · Power BI · Excel · Statistical analysis
 
 ## 📂 Projects
 
+- **[olist-ecommerce-sql-analysis](https://github.com/alicerodrigues1536-dot/olist-ecommerce-sql-analysis)**: SQL analysis of ~100,000 orders from a Brazilian e-commerce marketplace (Olist): sales, delivery performance and customer segmentation (PostgreSQL).
 - **[Short-Toed-Snake-Eagle](https://github.com/alicerodrigues1536-dot/Short-Toed-Snake-Eagle)**: analysis of the flight behaviour and migration of the Short-toed Snake Eagle from GPS tracking data (R, Python).
 - **[Flighttrace](https://github.com/alicerodrigues1536-dot/Flighttrace)**: tool to identify bird flight types (e.g. soaring, gliding, flapping) from GPS tracking data.
 
