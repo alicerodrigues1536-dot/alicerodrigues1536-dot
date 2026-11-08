@@ -1,6 +1,6 @@
 # Hi, I'm Alice Rodrigues
 
-**Aspiring Data Analyst** with a Master's degree in data sciences and statistical analysis from Aix-Marseille University. I work with large GPS tracking datasets, statistical modelling and data visualisation.
+**Aspiring Research engineer / Data Analyst** with a Master's degree in data sciences and statistical analysis from Aix-Marseille University. I work with large GPS tracking datasets, statistical modelling and data visualisation.
 
 ##  Skills
 
